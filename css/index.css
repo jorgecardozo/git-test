@@ -1,0 +1,21 @@
+*{
+    font-size: 30px;
+    color: white
+}
+
+.container-branch-dev {
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: green;
+}
+.container-branch-dev .title{
+    margin: 5px;
+    background-color: red;
+}
+
+.container-branch-dev .subtitle{
+    margin: 2px;
+    background-color: rosybrown;
+}

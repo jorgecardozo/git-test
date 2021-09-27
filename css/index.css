@@ -19,3 +19,20 @@
     margin: 2px;
     background-color: rosybrown;
 }
+
+.container-branch-dev-1 {
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(128, 105, 0);
+}
+.container-branch-dev-1 .title{
+    margin: 5px;
+    background-color: rgb(44, 23, 23);
+}
+
+.container-branch-dev-1 .subtitle{
+    margin: 2px;
+    background-color: rgb(150, 157, 160);
+}

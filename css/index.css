@@ -36,3 +36,20 @@
     margin: 2px;
     background-color: rgb(150, 157, 160);
 }
+
+.container-branch-dev-2 {
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(7, 63, 85);
+}
+.container-branch-dev-2 .title{
+    margin: 5px;
+    background-color: rgb(10, 178, 230);
+}
+
+.container-branch-dev-2 .subtitle{
+    margin: 2px;
+    background-color: rgb(156, 160, 150);
+}

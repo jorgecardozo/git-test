@@ -1,5 +1,5 @@
-*{
-    font-size: 30px;
+body{
+    font-size: 25px;
     color: white
 }
 
@@ -18,4 +18,5 @@
 .container-branch-dev .subtitle{
     margin: 2px;
     background-color: rosybrown;
+    color: black;
 }
